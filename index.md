@@ -4,7 +4,7 @@ FiruOS is an innovative operating system designed to provide a robust and versat
 
 ## Key Features
 
-- **[CLI:](/CLI)** FiruOS features a CLI.
+- **[CLI:](FiruOS/CLI)** FiruOS features a CLI.
 
 - **[FiruShell:](#)** FiruOS includes FiruShell, a powerful command-line interface that enables users to interact with the system efficiently.
 
