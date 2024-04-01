@@ -24,7 +24,7 @@ FiruShell comes pre-installed with FiruOS. Simply open a terminal or command pro
 
 To use FiruShell, open a terminal or command prompt and type `firushell` or `fsh`. You can then start entering commands and exploring the features of FiruShell.
 
-For a complete list of commands and their usage, refer to the [FiruShell documentation](https://firuos.com/docs/firushell).
+For a complete list of commands and their usage, refer to the [FiruShell documentation](doc/FiruShell).
 
 ## Support
 
