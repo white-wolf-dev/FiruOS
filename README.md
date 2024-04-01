@@ -14,7 +14,7 @@ FiruOS is an innovative operating system designed to provide a robust and versat
 
 ## Documentation and Support
 
-For more information about FiruOS and to access official documentation, visit our website: [FiruOS doc](wiki)
+For more information about FiruOS and to access official documentation, visit our doc an wiki: [FiruOS doc](wiki)
 
 If you need help or technical support, feel free to contact our customer support team at support@firuos.com
 
