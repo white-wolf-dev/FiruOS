@@ -6,7 +6,7 @@ FiruOS is an innovative operating system designed to provide a robust and versat
 
 - **[CLI:](CLI)** FiruOS features a CLI.
 
-- **[FiruShell:](#)** FiruOS includes FiruShell, a powerful command-line interface that enables users to interact with the system efficiently.
+- **[FiruShell:](FiruShell)** FiruOS includes FiruShell, a powerful command-line interface that enables users to interact with the system efficiently.
 
 - **[Package Management:](#)** With the Firu Package Installer (FPI) package management system, users can easily install, update, and remove software on FiruOS.
 
