@@ -17,14 +17,14 @@ Firu Package Installer (FPI) is a powerful tool that provides users with a conve
 - **Repository Integration:** FPI integrates seamlessly with package repositories, providing users with access to a wide range of software packages.
 
 ## Installation
-  ### windows
-  use the WSF (windows subsystem for firuOS) WSF is a firuShell in windows
-  ### MacOS
-  use the FSA (Firuos Subsystem for All OS) FSA is a firuShell in All OS
-  ### Linux/Unix/Gnu
-  use the FSA (Firuos Subsystem for All OS) FSA is a firuShell in All OS
-  ### FiruOS
-  Firu Package Installer (FPI) comes pre-installed with FiruOS. There is no need to install it separately.
+### windows
+use the WSF (windows subsystem for firuOS) WSF is a firuShell in windows
+### MacOS
+use the FSA (Firuos Subsystem for All OS) FSA is a firuShell in All OS
+### Linux/Unix/Gnu
+use the FSA (Firuos Subsystem for All OS) FSA is a firuShell in All OS
+### FiruOS
+Firu Package Installer (FPI) comes pre-installed with FiruOS. There is no need to install it separately.
 
 ## Usage
 
