@@ -12,6 +12,9 @@ FiruOS is an innovative operating system designed to provide a robust and versat
 
 - **[Multiplatform Compatibility:](FSA)** FiruOS is designed to run on a variety of platforms, including desktop computers, servers, and embedded devices.
 
+## downloads
+[downloads](dowload)
+
 ## Documentation and Support
 
 For more information about FiruOS and to access official documentation, visit a doc: [FiruOS doc](doc)
