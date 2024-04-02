@@ -8,9 +8,9 @@ FiruOS is an innovative operating system designed to provide a robust and versat
 
 - **[FiruShell:](FiruShell)** FiruOS includes FiruShell, a powerful command-line interface that enables users to interact with the system efficiently.
 
-- **[Package Management:](#)** With the Firu Package Installer (FPI) package management system, users can easily install, update, and remove software on FiruOS.
+- **[Package Management:](FPI)** With the Firu Package Installer (FPI) package management system, users can easily install, update, and remove software on FiruOS.
 
-- **[Multiplatform Compatibility:](#)** FiruOS is designed to run on a variety of platforms, including desktop computers, servers, and embedded devices.
+- **[Multiplatform Compatibility:](FSA)** FiruOS is designed to run on a variety of platforms, including desktop computers, servers, and embedded devices.
 
 ## Documentation and Support
 
