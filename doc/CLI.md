@@ -23,7 +23,7 @@ Here are some basic commands to get you started with the FiruOS CLI:
 - `rmdir`: Remove an empty directory.
 - `info`: Display detailed information about a file or directory.
 
-For a complete list of commands and their usage, please refer to the [FiruOS CLI Command Reference](https://firuos.com/docs/cli/commands).
+For a complete list of commands and their usage, please refer to the [FiruOS CLI Command Reference](##BasicCommands).
 
 ## Advanced Usage
 
