@@ -35,7 +35,7 @@ The FiruOS CLI provides a wide range of commands for managing files, directories
 - `netstat`: Display information about network connections.
 - `kill`: Terminate processes.
 
-For a complete list of commands and their usage, refer to the [FiruOS CLI documentation](##).
+For a complete list of commands and their usage, refer to the [FiruOS CLI documentation](/doc/CLI).
 
 ## Support
 
