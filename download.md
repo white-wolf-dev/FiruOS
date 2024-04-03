@@ -19,7 +19,8 @@ This page provides download links for each part of a Command-Line Interface (CLI
 - **Linux:** [Download Here](https://ereuse-org.gitbook.io/faq/where-can-i-download-linux-to-install-fsa)
 
 ### FPI Firu Package Installer:
-> [!NOTE]
+> NOTE
+> 
 > To install FPI on an OS other than FiruOS you will have to use WSF for Windows and FSA for another OS other than Windows
 - **Windows:** [Download Here](https://windows-post-install.uptodown.com/windows/descargar)
 - **Mac:** [Download Here](https://nasa.github.io/fprime/INSTALL.html)
