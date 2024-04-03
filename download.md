@@ -6,7 +6,7 @@ This page provides download links for each part of a Command-Line Interface (CLI
 
 ## Download Links
 
-### CLI Language:
+### CLI:
 
 - **Windows:** [Download Here](https://sourceforge.net/projects/aroyer-cli/)
 - **Mac:** [Download Here](https://docs.aws.amazon.com/cli/v1/userguide/install-macos.html)
