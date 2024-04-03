@@ -1,4 +1,4 @@
-# CLI Language with FSA Firu Subsystem Downloads
+# dowload all firuOS apps
 
 ## Description
 
@@ -12,22 +12,23 @@ This page provides download links for each part of a Command-Line Interface (CLI
 - **Mac:** [Download Here](https://docs.aws.amazon.com/cli/v1/userguide/install-macos.html)
 - **Linux:** [Download Here](https://sourceforge.net/projects/aroyer-cli/)
 
-### FSA Firu Subsystem:
+### FSA Firu Subsystem For All OS:
 
 - **Windows:** [Download Here](https://m.youtube.com/watch?v=wJOGNakQvRs)
 - **Mac:** [Download Here](https://apps.apple.com/us/app/fsafeds/id1132751625)
 - **Linux:** [Download Here](https://ereuse-org.gitbook.io/faq/where-can-i-download-linux-to-install-fsa)
 
 ### FPI Firu Package Installer:
-
+> [!NOTE]
+> To install FPI on an OS other than FiruOS you will have to use WSF for Windows and FSA for another OS other than Windows
 - **Windows:** [Download Here](https://windows-post-install.uptodown.com/windows/descargar)
 - **Mac:** [Download Here](https://nasa.github.io/fprime/INSTALL.html)
 - **Linux:** [Download Here](https://pkgs.org/)
 
 ### Firush:
 
-- **Windows:** Note: This appears to be a game, not related to the CLI tools. You can search for "CLI games" for recommendations.
-- **Mac:** Note: This appears to be a game, not related to the CLI tools. You can search for "CLI games" for recommendations.
+- **Windows:** [Download Here](https://www.gnu.org.ua/software/rush/download.html)
+- **Mac:** [Download Here](https://www.gnu.org.ua/software/rush/download.html)
 - **Linux:** [Download Here](https://www.gnu.org.ua/software/rush/download.html)
 
 ### Firushell:
