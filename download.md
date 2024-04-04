@@ -50,11 +50,10 @@ This page provides download links for each part of a Command-Line Interface (CLI
 
 ## Additional Resources
 
-- CLI Language Documentation: [Link](https://docs.aws.amazon.com/cli/)
-- FSA Firu Subsystem Documentation: [Search online for specific documentation related to FSA Firu]
-- FPI Firu Package Installer Documentation: [Link](https://www.solvusoft.com/en/file-extensions/file-extension-fpi/)
-- Firush Documentation: Note: Firush may not be related to the CLI tools.
-- Firushell Documentation: [Link](https://www.youtube.com/watch?v=lOeQUwdAjE0)
+- CLI Language Documentation: [Link](doc/CLI)
+- FSA Firu Subsystem Documentation: [Link](doc/FSA)
+- FPI Firu Package Installer Documentation: [Link](doc/fpi)
+- Firush Documentation: [Link](doc/firush)
 
 ## Note
 
